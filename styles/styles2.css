@@ -58,28 +58,28 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images1/gift-cover.jpg");
+    background-image: url("../images1/gift-cover.jpg");
     background-size: cover;
 }
 
 #gift-img-happy:hover {
-    background-image: url("images1/happy.gif");
+    background-image: url("../images1/happy.gif");
 }
 
 #gift-img-hot:hover {
-    background-image: url("images1/hot.gif");
+    background-image: url("../images1/hot.gif");
 }
 
 #gift-img-genius:hover {
-    background-image: url("images1/genius.gif");
+    background-image: url("../images1/genius.gif");
 }
 
 #gift-img-badass:hover {
-    background-image: url("images1/badass.gif");
+    background-image: url("../images1/badass.gif");
 }
 
 #gift-img-cheers:hover {
-    background-image: url("images1/cheers.gif");
+    background-image: url("../images1/cheers.gif");
 }
 
 #footer {
